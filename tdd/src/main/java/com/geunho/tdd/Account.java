@@ -1,4 +1,4 @@
-package com.geunho.tdd.bank;
+package com.geunho.tdd;
 
 public class Account {
   private int balance;

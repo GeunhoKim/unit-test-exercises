@@ -1,4 +1,4 @@
-package com.geunho.tdd.bank;
+package com.geunho.tdd;
 
 import org.junit.Before;
 import org.junit.Test;
